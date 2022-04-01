@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @moronifacundo
 - 👀 I’m interested in many many things! I love languages, I study industrial engineering, I study programming, and I design games for fun. I also enjoy teaching, and I am a Teacher of English as a Foreign Language.
-- 🌱 I’m currently learning JavaScript, and Web Developing in general.
-- 💞️ I’m looking to collaborate in any kind of project that could use an unexperienced but very skillful developer
+- 🌱 I’m currently learning JavaScript, NodeJS, and Web Developing in general.
+- 💞️ I’m looking for an opportunity to collaborate in any kind of project that could use an unexperienced but very skillful developer
 - 📫 How to reach me? You can find me at moronifacundo@gmail.com
 
 <!---
