@@ -4,9 +4,11 @@
 
 👀 I’m interested in many many things! I am a Full Stack Developer, I love languages, I study industrial engineering, and I design games for fun. I also enjoy teaching, and I am a Teacher of English as a Foreign Language.
 
-🌱 I’m currently (and always) deepening my knowledge. These days, in Python, fastAPI, RemixJS and Web Developing in general.
+💻 I have worked mostly with JS, NodeJS, TS, Python, React, Redux, Express, Postgres.
 
-💞️ Along with two good friends/partners, I co-founded PPrina Software Factory, and at the same time I work for 1910 genetics as a Software Engineer.
+🌱 I’m currently (and always) deepening my knowledge. These days, in Prisma, Remix Run and Web Developing in general.
+
+💞️ Along with two good friends/partners, I co-founded PPrina Software Factory, where I also work as a Fullstack/FrontEnd Developer.
 
 📫 How to reach me? You can find me at moronifacundo@gmail.com
 
