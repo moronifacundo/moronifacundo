@@ -2,7 +2,7 @@
 
 👋 Hi, I’m @moronifacundo
 
-👀 I’m interested in many many things! I am a Full Stack Developer, I love languages, I study industrial engineering, and I design games for fun. I also enjoy teaching, and I am a Teacher of English as a Foreign Language.
+👀 I’m interested in many many things! I am a Full Stack Developer, I love languages, I studied Industrial Engineering, and I design games for fun. I also enjoy teaching, and I am a Teacher of English as a Foreign Language.
 
 💻 I have worked mostly with JS, NodeJS, TS, Python, React, Redux, Express, Postgres.
 
